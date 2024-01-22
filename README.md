@@ -1,6 +1,6 @@
 # OptiPlay-Analytics
 
-## Executive Summary
+## Summary
 Data analytics plays a pivotal role in Fantasy Premier League (FPL) team building, offering strategic insights for optimal decision-making. This analysis focuses on player selection, performance prediction, and the nuanced impact of home-field advantage in the context of FPL. The objective is to provide FPL users and analysts with practical, data-driven insights to refine decision-making processes and optimize team performance.
 
 ## Research Highlights
